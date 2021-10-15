@@ -1,6 +1,6 @@
 @font-face {
   font-family: TTHoves-Medium;
-  src: url("/assets/fonts/TTHoves-Medium.ttf") format('truetype');
+  src: url("/assets/fonts/TTHoves-Medium.ttf") format("truetype");
 }
 
 :root {
@@ -471,6 +471,7 @@ footer {
 
 @media (orientation: landscape) {
   footer {
+    padding: 4%;
     grid-template-columns: 1fr 0.6fr 0.3fr;
     grid-template-areas:
       "footer-logo footer-subscribe footer-subscribe"
