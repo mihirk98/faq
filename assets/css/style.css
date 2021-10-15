@@ -506,6 +506,7 @@ footer {
 }
 
 #footer-subscribe-field-email {
+  padding: 8px 16px;
   flex-grow: 1;
 }
 
