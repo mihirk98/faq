@@ -1,6 +1,6 @@
 @font-face {
   font-family: TTHoves-Medium;
-  src: url("faq/assets/fonts/TTHoves-Medium.ttf") format("truetype");
+  src: url("/faq/assets/fonts/TTHoves-Medium.ttf") format("truetype");
 }
 
 :root {
