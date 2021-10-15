@@ -510,7 +510,7 @@ footer {
 
 #footer-subscribe-field-button {
   cursor: pointer;
-  padding: 14px 21px 13.1px 22px;
+  padding: 1rem 2rem;
   border: 1px solid var(--primary-color);
   background-color: var(--primary-color);
 }
